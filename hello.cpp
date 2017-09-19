@@ -7,7 +7,7 @@ main()
 {
 	int r,h,p;
 	float pre;
-	printf("T A B U L A D O R \n");
+	printf("T A B U L A D O R S \n");
 	printf("Cuantos Recopiladores: \n");
 	scanf("%d",&r);
 
